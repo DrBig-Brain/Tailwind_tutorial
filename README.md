@@ -6,8 +6,14 @@ This repository contains my personal notes and examples for learning and experim
 
 - `src/App.jsx` - Main application component
 - `src/App2.jsx` - Additional application examples
+- `src/BeforeAfter.jsx` - Before/after pseudo-element examples
+- `src/FirstLastChild.jsx` - First/last-child selector examples
+- `src/HoverFocusActive.jsx` - State variant examples (hover/focus/active)
+- `src/RequiredDisabled.jsx` - Form state examples (required/disabled)
 - `src/button.jsx` - Button component examples
 - `src/dark.jsx` - Dark mode implementation examples
+- `src/group.jsx` - Group hover/focus examples
+- `src/has.jsx` - :has selector examples
 - `src/loops.jsx` - Examples using loops with Tailwind
 - `src/main.jsx` - Application entry point
 - `src/styles.css` - Custom styles and Tailwind imports
