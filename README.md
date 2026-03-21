@@ -7,6 +7,7 @@ This repository contains my personal notes and examples for learning and experim
 - `src/App.jsx` - Main application component
 - `src/App2.jsx` - Additional application examples
 - `src/BeforeAfter.jsx` - Before/after pseudo-element examples
+- `src/BreakPoint.jsx` - Responsive breakpoint examples
 - `src/FirstLastChild.jsx` - First/last-child selector examples
 - `src/HoverFocusActive.jsx` - State variant examples (hover/focus/active)
 - `src/RequiredDisabled.jsx` - Form state examples (required/disabled)

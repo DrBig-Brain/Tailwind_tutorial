@@ -1,6 +1,7 @@
 import { createRoot } from 'react-dom/client'
-import { BeforeAfter} from './BeforeAfter'
+import { BreakPoint } from './BreakPoint'
 
 createRoot(document.getElementById('root')).render(
-  <BeforeAfter/>
+  <BreakPoint/>
 )
+:
